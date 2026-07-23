@@ -12,13 +12,12 @@ Familiar: Kubernetes, C++, C#, JavaScript, Networking (Cisco, TCP/IP)
 
 Jarvis Projects
 
-Project source code: [add your GitHub repo link here]
+Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AbderraoufZIGHED]
 
-Agentic AI for Java Development — Copilot & Python Tooling [GitHub]:
 
 Applied agentic AI to a Java codebase using GitHub Copilot alongside custom Python automation scripts, extending AI assistance beyond code completion into review, refactoring, and test-generation workflows.
 Bridged Java development with Python-based agentic tooling, bringing the same agentic-loop thinking used in RAG systems into day-to-day Java engineering.
-Self-Evolving Agentic RAG System [GitHub]:
+Self-Evolving Agentic RAG System [https://drive.google.com/file/d/1ImfOGUYfotPTgd6NO29w7LTWwyAELp7R/view?usp=sharing]:
 
 Designed and implemented an autonomous agentic system capable of self-evaluation, self-improvement, and dynamic behavior adaptation within a continuous agentic loop — presented at the Fall 2025 MIIA graduating students' poster session.
 Built an orchestrated multi-agent architecture integrating Agentic RAG for modularity, robustness, and scalability.
